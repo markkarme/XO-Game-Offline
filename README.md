@@ -1,6 +1,6 @@
 # xogame
 
-A new Flutter application.
+this app can help beginners with their educational journey
 
 ## Getting Started
 
